@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70c74034.css",
+    "main.js": "/static/js/main.a70851d9.js",
+    "static/js/787.cfd8f164.chunk.js": "/static/js/787.cfd8f164.chunk.js",
+    "static/media/nanacamilpa.png": "/static/media/nanacamilpa.409ef432132d545b7671.png",
+    "static/media/blog.png": "/static/media/blog.a7afa4e5d9b27ce2e763.png",
+    "static/media/mines.png": "/static/media/mines.f5973eaa634bfe2be09f.png",
+    "static/media/xoletilandia.png": "/static/media/xoletilandia.0516b2aaa93f07d2b30c.png",
+    "static/media/isondues.png": "/static/media/isondues.68e259bf7960bb4c88ba.png",
+    "static/media/music.png": "/static/media/music.7de2d883235739317a74.png",
+    "static/media/portafolio.png": "/static/media/portafolio.19659f31662ed86db082.png",
+    "static/media/ajax.png": "/static/media/ajax.c7b9a4113cb89544db50.png",
+    "static/media/darkmode.png": "/static/media/darkmode.0bc7648662a8071802cb.png",
+    "static/media/socialmedia.png": "/static/media/socialmedia.2aa754e4e5c502da8c8d.png",
+    "static/media/calendar.png": "/static/media/calendar.9d539956084d02096902.png",
+    "static/media/user.png": "/static/media/user.cb5a4dacce23c24a59c7.png",
+    "index.html": "/index.html",
+    "main.70c74034.css.map": "/static/css/main.70c74034.css.map",
+    "main.a70851d9.js.map": "/static/js/main.a70851d9.js.map",
+    "787.cfd8f164.chunk.js.map": "/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70c74034.css",
+    "static/js/main.a70851d9.js"
+  ]
+}
